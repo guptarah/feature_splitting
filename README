@@ -1,5 +1,5 @@
 data_diverse_mlr_ens_oracle: 
-contains sim anneal on wtd acc with files doing all kinds of fusion; grad asc on wtd ll
+contains sim anneal (SA) on wtd acc with files doing all kinds of fusion; grad asc on wtd ll
 1: oracle fusion
 2: equal weighting
 3: acc based weighting
